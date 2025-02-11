@@ -1,6 +1,6 @@
 ## Hi there 👋
-its Shivv 
-its My First Demo 
+its Shivv...
+its Just A Demo 
 <!--
 **Shivv15/Shivv15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
